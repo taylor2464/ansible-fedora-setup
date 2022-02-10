@@ -1,0 +1,12 @@
+# External Node Classifiers
+*.enc
+
+# Tower runtime roles
+roles/**
+
+# Common Ansible runtime files
+*.original
+*.tmp
+*.bkp
+*.retry
+*.*~
